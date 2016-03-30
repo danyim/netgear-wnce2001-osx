@@ -12,6 +12,7 @@ After combing through DD-WRT's [TFTP flashing method for OSX](https://www.dd-wrt
 4. Open up your terminal, cd into the folder where you downloaded the repo
 5. Type in `tftp` to begin the TFTP prompt
 6. Paste the below
+
         connect 192.168.1.251
         binary
         rexmt 1
